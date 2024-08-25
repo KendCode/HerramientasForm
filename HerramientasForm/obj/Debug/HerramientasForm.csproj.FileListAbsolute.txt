@@ -1,0 +1,10 @@
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\bin\Debug\HerramientasForm.exe.config
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\bin\Debug\HerramientasForm.exe
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\bin\Debug\HerramientasForm.pdb
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.csprojResolveAssemblyReference.cache
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.MainForm.resources
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.csproj.GenerateResource.Cache
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.exe
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.pdb
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.Ventana2.resources
+G:\Programacion II\3er bimestres\HerramientasForm\HerramientasForm\obj\Debug\HerramientasForm.Ventana3.resources
